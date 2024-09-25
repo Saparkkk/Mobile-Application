@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProjectMycar" parent="Theme.AppCompat.Light.DarkActionBar"> <!-- ใช้ Theme ที่รองรับ ActionBar -->
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+    </style>
+
+    <style name="Theme.ProjectMycar" parent="Base.Theme.ProjectMycar" />
+
+</resources>
